@@ -1,0 +1,12 @@
+# Site settings
+title: Ream Lim's Notes
+email: singachea [at] gmail.com
+description: > #
+  Just another boring blog I guess...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://singachea.github.io" # the base hostname & protocol for your site
+twitter_username: ream.lim
+github_username:  singachea
+
+# Build settings
+markdown: kramdown
