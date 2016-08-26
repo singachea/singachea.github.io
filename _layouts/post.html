@@ -12,4 +12,8 @@ layout: default
     {{ content }}
   </article>
 
+
+  <br />
+  <div id="fb-root"></div>
+  <div class="fb-comments" data-href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" data-width="740" data-numposts="10"></div>
 </div>
